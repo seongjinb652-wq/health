@@ -1,0 +1,12 @@
+# 부하 테스트 도구
+locust==2.20.0
+
+# FastAPI 서버 (이미 설치되어 있을 수 있음)
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+
+# 모니터링 및 리포팅
+psutil==5.9.8
+
+# 데이터 처리
+pandas==2.2.0
